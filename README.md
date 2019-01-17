@@ -1,5 +1,5 @@
 {
-"lol":"https://mxcp9.cc?pt=dlvip01",
+"lol":"http://cpdownfy.vip365pro.com/dlmxcp/index.php?appid=1008",
 "objectId":"1",
 "isShowTabbar":0,
 }
